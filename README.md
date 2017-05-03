@@ -2,8 +2,8 @@
 基于django幕学网在线平台开发
 
 项目的文件树如下：主要是Mxonline、apps、static、templates
-├─ MxOnline
-│  ├─ __init__.py
+├─ MxOnline<br>
+</br>│  ├─ __init__.py<br>
 │  ├─ settings.py
 │  ├─ urls.py
 │  ├─ wsgi.py
