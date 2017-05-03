@@ -1,5 +1,5 @@
 # django-MuxueOnline
-基于django幕学网在线平台开发
+基于django的幕学网在线教育平台，目前完成基本的model设计以及app中users的相关Views，项目后续会继续开发
 
 项目的文件树如下：主要是Mxonline、apps、static、templates<br>
 ├─ MxOnline<br>
