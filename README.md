@@ -9,37 +9,35 @@
 │  ├─ wsgi.py<br>
 ├─ apps<br>
 │  ├─ courses<br>
-│  ├─ operation
-│  ├─ orgrations
-│  ├─ users
-│  │  ├─ image
-│  │  │  └─ default.png
-│  │  ├─ admin.py
-│  │  ├─ adminx.py
-│  │  ├─ apps.py
-│  │  ├─ forms.py
-│  │  ├─ models.py
-│  │  ├─ tests.py
-│  │  ├─ views.py
-│  ├─ utils
-│  │  ├─ __init__.py
-│  │  ├─ __init__.pyc
-│  │  ├─ send_email.py
-│  │  └─ send_email.pyc
-│  └─ __init__.py
-├─ extra_apps
-│  └─ xadmin
-├─ static
-│  ├─ css
-│  ├─ images
-│  ├─ img
-│  └─ js
-├─ templates
-│  ├─ active_fail.html
-│  ├─ forgetpwd.html
-│  ├─ index.html
-│  ├─ login.html
-│  ├─ password_reset.html
-│  ├─ register.html
-│  └─ sendemail_success.html
-└─ manage.py
+│  ├─ operation<br>
+│  ├─ orgrations<br>
+│  ├─ users<br>
+│  │  ├─ image<br>
+│  │  │  └─ default.png<br>
+│  │  ├─ admin.py<br>
+│  │  ├─ adminx.py<br>
+│  │  ├─ apps.py<br>
+│  │  ├─ forms.py<br>
+│  │  ├─ models.py<br>
+│  │  ├─ tests.py<br>
+│  │  ├─ views.py<br>
+│  ├─ utils<br>
+│  │  ├─ __init__.py<br>
+│  │  ├─ send_email.py<br>
+│  └─ __init__.py<br>
+├─ extra_apps<br>
+│  └─ xadmin<br>
+├─ static<br>
+│  ├─ css<br>
+│  ├─ images<br>
+│  ├─ img<br>
+│  └─ js<br>
+├─ templates<br>
+│  ├─ active_fail.html<br>
+│  ├─ forgetpwd.html<br>
+│  ├─ index.html<br>
+│  ├─ login.html<br>
+│  ├─ password_reset.html<br>
+│  ├─ register.html<br>
+│  └─ sendemail_success.html<br>
+└─ manage.py<br>
