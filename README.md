@@ -1,14 +1,14 @@
 # django-MuxueOnline
 基于django幕学网在线平台开发
 
-项目的文件树如下：主要是Mxonline、apps、static、templates
+项目的文件树如下：主要是Mxonline、apps、static、templates<br>
 ├─ MxOnline<br>
-</br>│  ├─ __init__.py<br>
-│  ├─ settings.py
-│  ├─ urls.py
-│  ├─ wsgi.py
-├─ apps
-│  ├─ courses
+│  ├─ __init__.py<br>
+│  ├─ settings.py<br>
+│  ├─ urls.py<br>
+│  ├─ wsgi.py<br>
+├─ apps<br>
+│  ├─ courses<br>
 │  ├─ operation
 │  ├─ orgrations
 │  ├─ users
